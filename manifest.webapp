@@ -1,6 +1,6 @@
 {
     "name": "Electricity Bill Cal",
-    "description": "This is an electricity bill calculator for domestic and religious consumers of Sri Lanka",
+    "description": "This is an electricity bill calculator for domestic and religious consumers in Sri Lanka",
     "launch_path": "/slelectcal/index.html",
     "appcache_path": "/slelectcal/cache.appcache",
     "developer": {
