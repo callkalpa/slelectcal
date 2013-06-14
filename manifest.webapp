@@ -2,7 +2,7 @@
     "name": "Electricity Bill Cal",
     "description": "This is an electricity bill calculator for domestic and religious consumers of Sri Lanka",
     "launch_path": "/slelectcal/index.html",
-    "appcache_path": "/slelectcal/cache.manifest",
+    "appcache_path": "/slelectcal/cache.appcache",
     "developer": {
         "name": "Kalpa Welivitigoda",
         "url": "http://kalpapathum.blogspot.com"
