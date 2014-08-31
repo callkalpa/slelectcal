@@ -14,5 +14,6 @@
 		"64": "/slelectcal/icons/icon_64.png",
 		"128":"/slelectcal/icons/icon_128.png"
 	},
-    "default_locale": "en"
+    "default_locale": "en",
+    "chrome": {"navigation": true}
 }
